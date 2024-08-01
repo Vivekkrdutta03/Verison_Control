@@ -1,2 +1,1 @@
 IDE : visual studio and vs code.
-Familier with UnityEngine and HTML and CSS and JS and NODE.js
