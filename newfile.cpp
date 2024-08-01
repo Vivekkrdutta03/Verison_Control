@@ -1,6 +1,7 @@
 #include<iostream>
+using namespace std;
 
 int main(){
-    std::cout<<"hello master first"<<std :: endl;
-    return 0;
+    cout<<"master second"<<endl;
+    return 101;
 }
